@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ControlsSample</string>
+    <string name="button">BUTTON</string>
+    <string name="chose_me">Chose me</string>
+    <string name="call_enabled">Call enabled</string>
+    <string name="call_disabled">Call disabled</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="rabbit">Rabbit</string>
+</resources>

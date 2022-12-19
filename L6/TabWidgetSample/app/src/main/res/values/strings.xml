@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabWidgetSample</string>
+    <string name="tab1_indicator">students_indicator</string>
+    <string name="tab2_indicator">teachers_indicator</string>
+    <string name="tab3_indicator">classes_indicator</string>
+    <string name="tab1_content">students</string>
+    <string name="tab2_content">teachers</string>
+    <string name="tab3_content">classes</string>
+</resources>

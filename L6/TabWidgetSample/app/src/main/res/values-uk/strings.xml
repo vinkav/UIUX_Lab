@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabWidgetSample</string>
+    <string name="tab1_indicator">students_indicator</string>
+    <string name="tab2_indicator">teachers_indicator</string>
+    <string name="tab3_indicator">classes_indicator</string>
+    <string name="tab1_content">студенти</string>
+    <string name="tab2_content">вчітелі</string>
+    <string name="tab3_content">класи</string>
+</resources>

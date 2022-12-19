@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">IPZ_1</string>
+    <string name="second_fragment_label"> </string>
+    <string name="next">Натисни мене!</string>
+    <string name="previous">Натисни мене!</string>
+
+    <string name="hello_first_fragment">Командирчик Андрій</string>
+    <string name="hello_second_fragment">Button was pressed!</string>
+</resources>
